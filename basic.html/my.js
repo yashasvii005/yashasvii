@@ -1,1 +1,1 @@
-alert("java script here !!");
+alert("you are cute");
